@@ -1,12 +1,11 @@
-package variable;/**
- *packageName    : variable
- * fileName       : Var1
- * author         : keti
- * date           : 2024-01-22
- * description    :
- * ===========================================================
- * DATE              AUTHOR             NOTE
- * -----------------------------------------------------------
- * 2024-01-22        keti       최초 생성
- */public class Var1 {
+package variable;
+public class Var1 {
+    public static void main(String[] args) {
+        int ant;
+        ant = 10;
+
+        System.out.println(ant);
+        System.out.println(ant);
+        System.out.println(ant);
+    }
 }
